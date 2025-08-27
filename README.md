@@ -29,7 +29,7 @@ SynergyApp enables users to configure, manage, and execute integrations with ext
 - Docker for containerization
 
 ## Project Structure
- 
+- https://github.com/AmSh4/SynergyApp/tree/main/Structure
 
 ## Setup and Running
 
@@ -60,5 +60,6 @@ Run tests with `mvn test`. Includes context loading and service unit tests.
 - H2 console available at http://localhost:8080/h2-console (use JDBC URL: jdbc:h2:mem:testdb).
 
 Contributions or forks welcome!                
+
 
 
